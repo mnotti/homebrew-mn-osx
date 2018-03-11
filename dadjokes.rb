@@ -10,6 +10,6 @@ class Dadjokes < Formula
   bottle :unneeded
 
   def install
-    bin.install "dadjoke"
+    bin.install "dadjokes"
   end
 end
