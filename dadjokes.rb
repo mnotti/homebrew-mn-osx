@@ -1,9 +1,9 @@
 class Dadjokes < Formula
   desc "A command line tool to retrieve random dad jokes"
   homepage "https://github.com/mnotti/DadJokes"
-  url "https://github.com/mnotti/DadJokes/raw/master/archive/dadjokes-v1.0.tar.gz"
-  sha256 "8d968292d65e745095780293290c0a019d8ef41ae611437d11c8ab4debf79f92"
-  version "1.0"
+  url "https://github.com/mnotti/DadJokes/raw/master/archive/dadjokes-v1.1.tar.gz"
+  sha256 "8900f88bf5a309204ad61a8311f1a864fd819e46cbcd6a9c6485e4a8e98aa372"
+  version "1.1"
   
   depends_on "curl"
 
