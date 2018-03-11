@@ -1,4 +1,4 @@
-class DadJokes < Formula
+class Dadjokes < Formula
   desc "A command line tool to retrieve random dad jokes"
   homepage "https://github.com/mnotti/DadJokes"
   url "https://github.com/mnotti/DadJokes/raw/master/archive/dadjokes-v1.0.tar.gz"
